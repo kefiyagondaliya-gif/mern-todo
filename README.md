@@ -3,6 +3,10 @@
 A full-stack task management app built with **MongoDB, Express.js, React.js, and Node.js** featuring JWT authentication, responsive dark UI, and clean architecture.
 
 ---
+## 🚀 Live Demo
+
+🌐 Frontend: https://your-frontend-link.com
+⚙️ Backend API: https://mern-todo-backend-s2y2.onrender.com
 
 ## 🗂 Project Structure
 
