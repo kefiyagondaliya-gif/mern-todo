@@ -5,8 +5,8 @@ A full-stack task management app built with **MongoDB, Express.js, React.js, and
 ---
 ## 🚀 Live Demo
 
-🌐 Frontend: https://your-frontend-link.com
-⚙️ Backend API: https://mern-todo-backend-s2y2.onrender.com
+Experience the application here:  
+👉 https://pink-rhinoceros-348647.hostingersite.com/login
 
 ## 🗂 Project Structure
 
